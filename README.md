@@ -1,4 +1,4 @@
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+0<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
 
@@ -22,3 +22,4 @@
 | 三连击 | [点击此处](https://www.luogu.org/problem/P1008)/[题解](./枚举题/三连击.md) |
 | 数位DP（简化版） | [点击此处](./枚举题/数位DP.md) |
 | 最长上升子序列（简化版） | [点击此处](./枚举题/最长上升子序列.md) |
+| 关灯问题 | [点击此处](./枚举题/关灯问题.md) |
